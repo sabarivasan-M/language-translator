@@ -1,0 +1,2 @@
+deep-translator==1.11.4
+httpx>=0.24.1 
